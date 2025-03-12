@@ -45,13 +45,17 @@ CyberClassify simplifies the process of managing malware datasets, making resear
 To use CyberClassify, ensure you have the following:  
 
 - **Python** (Recommended: Latest stable version)  
-- **VS Code** or **Jupyter Notebook** for running the scripts  
-- **VirusTotal Premium API** for malware classification  
-- **AVClass (MaliciaLab fork)** – Install using:  
+- **VS Code** or **Jupyter Notebook** for running the scripts 
+- **[VirusTotal](https://www.virustotal.com/gui/home/upload) Premium API** for malware classification  
+- **[AVClass](https://github.com/malicialab/avclass) (MaliciaLab fork)** – Install using:
 ```
 pip install avclass-malicialab
 ```
 - **Storage Space** – Requirements depend on the size of your dataset
+
+To download Malware:
+- **[VirusShare](https://virusshare.com/)**
+- **[Malware Bazaar](https://datalake.abuse.ch/malware-bazaar/)**
 
 ## 4. Usage Guide
 
