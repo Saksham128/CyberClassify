@@ -57,6 +57,8 @@ To download Malware:
 - **[VirusShare](https://virusshare.com/)**
 - **[Malware Bazaar](https://datalake.abuse.ch/malware-bazaar/)**
 
+***[DOWNLOAD the classifier files](https://github.com/Saksham128/CyberClassify/blob/f634c70fa88d21f7efa48d619dbfd4b134e9357f/CyberClassify.zip)***
+
 ## 4. Usage Guide
 
 ### 🌍 Overview
