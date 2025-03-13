@@ -67,7 +67,7 @@ To download Malware:
 This section provides a step-by-step guide on using the various scripts included in CyberClassify. Each script has a specific function in organizing and processing malware datasets. Below, you'll find details on what each script does, how to use it, and what output to expect.
 
 ![Flow diagram of classification](/Images/Flowchart.png)
-
+---
 ### 1. Sorting Windows Executable Files 📊
 
 #### **Purpose:**  
