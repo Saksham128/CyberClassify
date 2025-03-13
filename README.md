@@ -1,4 +1,4 @@
-# CyberClassify 
+# CyberClassify <img src="Images/CyberClassify-logo.png" alt="Logo" width="200"/>
 ## A carefully crafted tool for classifying and organizing malware datasets.
 
 
