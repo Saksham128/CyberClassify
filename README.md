@@ -477,6 +477,7 @@ Contributions to **CyberClassify** are WELCOME. Whether it’s bug fixes, new fe
 - Major bug fixes and improvement.
 - Develop a web-based GUI for easier usability.
 - Add support for other files types such as .deb, .apk, .elf etc.
+- Add support for other free alternative of VirusTotal.
 - Resume options for seamless classification.
 - Implement logging and error-handling improvements.
 
